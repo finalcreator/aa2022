@@ -9,10 +9,10 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "8e369f5c-1f31-40da-9ea9-74daef6c81c1"
+            "value": "e4e22ff9-1a96-4c17-a42b-46890e30681e"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：",
             "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
         },
         "CONFIGCADDY": {
